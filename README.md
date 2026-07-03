@@ -135,7 +135,8 @@ It is suitable for portfolio use and entry-level Data Analyst roles.
 
 ### 🚀 Future Improvements 
 
-- Add time-based analysis (monthly trends) - Add customer segmentation analysis 
+- Add time-based analysis (monthly trends)
+- Add customer segmentation analysis 
 - Build dashboards using BI tools.
 
 
