@@ -105,34 +105,38 @@ GROUP BY Sales_Rep
 ORDER BY total_profit DESC;
 ```
 
-📈 Key Insights
--Clothing is one of the highest revenue-generating product categories.
--The North region shows strong sales performance.
--Credit Card is the most commonly used payment method.
--Some sales representatives significantly outperform others.
--Online sales channels contribute strongly to revenue.
--Profit varies significantly across sales representatives and products.
+### 📈 Key Insights
 
----
+- Clothing is one of the highest revenue-generating product categories.
+- The North region shows strong sales performance.
+- Credit Card is the most commonly used payment method.
+- Some sales representatives significantly outperform others.
+- Online sales channels contribute strongly to revenue.
+- Profit varies significantly across sales representatives and products.
 
-🧠 Skills Demonstrated
--SQL data aggregation (SUM, COUNT, AVG)
+
+
+### 🧠 Skills Demonstrated
+
+- SQL data aggregation (SUM, COUNT, AVG)
 GROUP BY analysis
--Business performance reporting
+- Business performance reporting
 Profit calculation
--Data interpretation and insights generation
+- Data interpretation and insights generation
 
----
 
-🎯 Final Note 
+
+### 🎯 Final Note 
+
 This work demonstrates SQL skills applied to real-world sales data analysis. 
 It is suitable for portfolio use and entry-level Data Analyst roles. 
 
----
 
-🚀 Future Improvements 
--Add time-based analysis (monthly trends) --Add customer segmentation analysis 
--Build dashboards using BI tools.
+
+### 🚀 Future Improvements 
+
+- Add time-based analysis (monthly trends) - Add customer segmentation analysis 
+- Build dashboards using BI tools.
 
 
 
