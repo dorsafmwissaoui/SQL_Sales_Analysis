@@ -110,6 +110,7 @@ ORDER BY total_profit DESC;
 - Clothing is one of the highest revenue-generating product categories.
 - The North region shows strong sales performance.
 - Credit Card is the most commonly used payment method.
+- Customer retention appears to have a strong impact on sales performance.
 - Some sales representatives significantly outperform others.
 - Online sales channels contribute strongly to revenue.
 - Profit varies significantly across sales representatives and products.
