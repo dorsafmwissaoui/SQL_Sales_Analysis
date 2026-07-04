@@ -120,10 +120,11 @@ ORDER BY total_profit DESC;
 ### 🧠 Skills Demonstrated
 
 - SQL data aggregation (SUM, COUNT, AVG)
-GROUP BY analysis
+- GROUP BY analysis
+- ORDER BY sorting
+- Profit calculation
 - Business performance reporting
-Profit calculation
-- Data interpretation and insights generation
+- Data interpretation and insight generation
 
 
 
