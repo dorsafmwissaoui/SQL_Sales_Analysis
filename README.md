@@ -130,7 +130,7 @@ ORDER BY total_profit DESC;
 
 ### 🎯 Final Note 
 
-This work demonstrates SQL skills applied to real-world sales data analysis. 
+This project demonstrates SQL skills applied to real-world sales data analysis. 
 It is suitable for portfolio use and entry-level Data Analyst roles. 
 
 
