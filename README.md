@@ -140,7 +140,7 @@ It is suitable for portfolio use and entry-level Data Analyst roles.
 - Build dashboards using BI tools.
 
 
-### Key Metrics
+- Key Metrics
 
 | Metric | Value |
 |--------|------:|
