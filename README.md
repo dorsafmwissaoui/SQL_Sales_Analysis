@@ -167,7 +167,7 @@ It is suitable for portfolio use and entry-level Data Analyst roles.
 
 ### Average Sales by Channel
 
-![Average Sales by Channel](screenshots/average_sales_by_channel.png)
+![Average Sales by Channel](screenshots/sales_by_channel.png)
 
 ### Top Sales Representatives
 
