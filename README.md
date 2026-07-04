@@ -140,38 +140,38 @@ It is suitable for portfolio use and entry-level Data Analyst roles.
 - Build dashboards using BI tools.
 
 
-## Key Metrics
+### Key Metrics
 
 | Metric | Value |
 |--------|------:|
 | Total Revenue | **$5.02M** |
 
 
-## Sales by Product Category
+### Sales by Product Category
 
 ![Sales by Category](screenshots/sales_by_category.png)
 
-## Sales by Region
+### Sales by Region
 
 ![Sales by Region](screenshots/sales_by_region.png)
 
-## Sales by Customer Type
+### Sales by Customer Type
 
 ![Sales by Customer Type](screenshots/sales_by_customer_type.png)
 
-## Sales by Payment Method
+### Sales by Payment Method
 
 ![Sales by Payment Method](screenshots/sales_by_payment_method.png)
 
-## Average Sales by Channel
+### Average Sales by Channel
 
 ![Average Sales by Channel](screenshots/average_sales_by_channel.png)
 
-## Top Sales Representatives
+### Top Sales Representatives
 
 ![Top Sales Representatives](screenshots/top_sales_representatives.png)
 
-## Profit by Sales Representative
+### Profit by Sales Representative
 
 ![Profit by Sales Representative](screenshots/profit_by_sales_representative.png)
 
