@@ -1,20 +1,13 @@
-.headers off
+.headers on
 .mode column
 
-SELECT '';
-SELECT'--- Total Sales ---';
-
-.headers on
+-- Total Sales
 
 SELECT SUM(Sales_Amount) AS total_revenue
-FROM sales
+FROM sales;
 
-.headers off
 
-SELECT '';
-SELECT'--- Sales by Product Category ---';
-
-.headers on
+-- Sales by Product Category
 
 SELECT Product_Category,
        SUM(Sales_Amount) AS total_sales
@@ -22,12 +15,8 @@ FROM sales
 GROUP BY Product_Category
 ORDER BY total_sales DESC;
 
-.headers off
 
-SELECT '';
-SELECT'--- Sales by Region ---';
-
-.headers on
+-- Sales by Region
 
 SELECT Region,
        SUM(Sales_Amount) AS total_sales
@@ -35,12 +24,8 @@ FROM sales
 GROUP BY Region
 ORDER BY total_sales DESC;
 
-.headers off
 
-SELECT '';
-SELECT '--- Sales by Sales Representative ---';
-
-.headers on
+-- Sales by Sales Representative
 
 SELECT Sales_Rep,
        SUM(Sales_Amount) AS total_sales
@@ -48,12 +33,8 @@ FROM sales
 GROUP BY Sales_Rep
 ORDER BY total_sales DESC;
 
-.headers off
 
-SELECT '';
-SELECT '--- Payment Method Analysis ---';
-
-.headers on
+-- Payment Method Analysis
 
 SELECT Payment_Method,
        COUNT(*) AS number_of_transactions
@@ -61,12 +42,8 @@ FROM sales
 GROUP BY Payment_Method
 ORDER BY number_of_transactions DESC;
 
-.headers off 
 
-SELECT '';
-SELECT '--- Customer Type Analysis ---';
-
-.headers on
+-- Customer Type Analysis
 
 SELECT Customer_Type,
        SUM(Sales_Amount) AS total_sales
@@ -74,24 +51,16 @@ FROM sales
 GROUP BY Customer_Type
 ORDER BY total_sales DESC;
 
-.headers off
 
-SELECT '';
-SELECT'--- Average Sales by Channel ---';
-
-.headers on
+-- Average Sales by Channel
 
 SELECT Sales_Channel,
        AVG(Sales_Amount) AS average_sales
 FROM sales
 GROUP BY Sales_Channel;
 
-.headers off 
 
-SELECT '';
-SELECT'--- Profit Analysis ---';
-
-.headers on 
+-- Profit Analysis
 
 SELECT Sales_Rep,
        SUM((Unit_Price - Unit_Cost) * Quantity_Sold) AS total_profit
